@@ -1,0 +1,1 @@
+Reversi.exeが動かなかったらReversi.slnを立ち上げて2つ実行してください
